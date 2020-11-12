@@ -145,7 +145,7 @@ You can get different maps by choosing different incident type/year/mouth/day to
 
 ## Link to our app
 
--The website of our app: http://127.0.0.1:6628/
+-The website of our app: https://duancyr.shinyapps.io/midterm-app/
 
 
 
